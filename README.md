@@ -1,55 +1,65 @@
-# Hello, I'm am3lue! 👋
-
-🔹 **Data Scientist** | 🤖 **Robotics Enthusiast**  
-I’m passionate about leveraging data science to gain insights and robotics to create innovative, real-world solutions. My projects range from automating tasks to building smart systems, and I'm always excited to explore and develop further.
+<h1 align="center">Hi there, I'm am3lue! 👋</h1>
+<p align="center">
+  <b>Data Scientist | Robotics Enthusiast</b><br>
+  🚀 Turning data into insights & building autonomous systems that make a difference 🚀
+</p>
 
 ---
 
-### 🛠️ My Skills & Interests
-- **Data Science**: Machine Learning, Data Analytics, Visualization
-- **Robotics**: Arduino, Autonomous Systems, IoT
-- **Programming Languages**: Python, C++, Julia
+### 🛠️ Skills & Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/-Data%20Science-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Robotics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Arduino-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-ESP32-0A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-purple?style=for-the-badge" />
+</div>
 
 ---
 
 ### 📈 GitHub Stats
-![am3lue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=am3lue&show_icons=true&theme=algolia&locale=en)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=algolia)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=am3lue&show_icons=true&theme=algolia&locale=en" alt="am3lue's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=algolia" alt="Top Languages" />
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-1. **Automated Lawn Mower**  
-   An Arduino-powered lawn mower prototype with autonomous navigation capabilities. Built with cost-effective components to enhance accessibility and efficiency.
+- **Automated Lawn Mower** 🌱  
+   An Arduino-powered lawn mower prototype with autonomous navigation, built using cost-effective components for enhanced accessibility and efficiency.
 
-2. **Hydroponics System**  
-   A smart hydroponic system designed to monitor and control plant growth, incorporating real-time data collection and nutrient management.
+- **Hydroponics System** 🌿  
+   A smart hydroponic system to monitor and control plant growth, incorporating real-time data collection and automated nutrient management.
 
-3. **Water Billing System**  
-   A real-time billing system where users can manage water usage via RFID cards, deducting balance as they dispense water. This system supports multiple access points and allows balance updates through a web app.
+- **Water Billing System** 💧  
+   Real-time billing with RFID card usage, supporting multi-user access and balance updates via a web interface.
 
-4. **Simple Timed Irrigation System**  
-   An irrigation system integrating an RTC, a valve, and capacitive soil moisture sensors to ensure precise watering schedules for optimal plant health.
+- **Simple Timed Irrigation System** 🌧️  
+   Integrated RTC, valve, and capacitive soil moisture sensors for precise, timed watering schedules to optimize plant health.
 
-5. **Locally Hosted Balance Update Website**  
-   Using NodeMCU and Arduino Mega, this project provides a Wi-Fi-enabled, locally hosted web interface for updating a balance variable stored in EEPROM. Perfect for quick and secure balance management.
-
----
-
-### 🔧 Tools & Technologies I Use
-- **Hardware**: Arduino, NodeMCU, ESP32, Capacitive Soil Moisture Sensors, RFID Readers
-- **Software & Libraries**: Python, Julia, TensorFlow, Scikit-Learn, Jupyter, Arduino IDE
-- **Tools**: Git, GitHub, VS Code, MATLAB
+- **Locally Hosted Balance Update Website** 🌐  
+   A NodeMCU and Arduino Mega-powered local web interface for securely updating a balance variable via Wi-Fi.
 
 ---
 
-### 📫 Let's Connect!
+### 🔧 Tools I Work With
+- **Programming Languages**: Python, C++, Julia
+- **Libraries**: TensorFlow, Scikit-Learn, Pandas, Matplotlib
+- **Hardware**: Arduino, NodeMCU, ESP32, RFID readers
+- **Software**: Jupyter, Arduino IDE, VS Code, Git & GitHub
+
+---
+
+### 📫 Get in Touch!
 - **Email**: [am3lue@gmail.com](mailto:am3lue@gmail.com)
-- **LinkedIn**: [linkedin.com/in/am3lue](#)
+- **Instagram**: [am3lue](#)
 
-I’m open to collaboration opportunities in data science, robotics, and automation projects. Let's create something amazing together!
+Let’s connect! I’m always open to discussions around data science, robotics, and collaborative projects. Together, we can innovate and create impactful solutions. 😊
 
 ---
 
-Thanks for stopping by, and feel free to check out my pinned repositories for more insights into my work. 😊
+<p align="center">Thank you for visiting my profile! Feel free to explore my repositories. 👀</p>
