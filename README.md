@@ -10,10 +10,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Data%20Science-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Robotics-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Julia-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Arduino-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-ESP32-0A0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-purple?style=for-the-badge" />
 </div>
 
 ---
