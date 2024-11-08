@@ -24,6 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=algolia" alt="Top Languages" />
 </div>
 ---
+
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=am3lue&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
