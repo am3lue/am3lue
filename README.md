@@ -28,7 +28,8 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=am3lue&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
 </div>
-
+---
+🏆 **Contributor Level:** ![Contributor Badge](https://img.shields.io/badge/Contributor-Bronze-green?style=flat-square)
 ---
 
 ### 🚀 Featured Projects
