@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm am3lue! 👋</h1>
+<h1 align="center">Hi there, I'm Francis! 👋</h1>
 
 <p align="center">
   <b>Data Scientist | Embedded Systems Developer | Robotics Enthusiast</b><br>
