@@ -1,4 +1,4 @@
-# Hi — I'm Francis (am3lue)! 👋
+<h1 align="center"> Hi — I'm Francis (am3lue)! 👋 </h1>
 
 <p align="center">
   <b>Data Scientist • Embedded Systems Developer • Robotics Enthusiast</b><br>
@@ -81,7 +81,7 @@ If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` 
 
 <!-- 🔥 Streak Stats for HackVerse Vibes -->
 <a href="https://github.com/am3lue">
-  <img src="https://streak-stats.demolab.com?user=am3lue&theme=tokyonight&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=am3lue&theme=tokyonight&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j" widht="180"/>
 </a>
 
 <br>
