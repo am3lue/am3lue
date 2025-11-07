@@ -1,6 +1,4 @@
-<div align="center"> 
-    <h1> Hi — I'm Francis (am3lue)! 👋 </h1>
-    </div>
+# Hi — I'm Francis (am3lue)! 👋
 
 <p align="center">
   <b>Data Scientist • Embedded Systems Developer • Robotics Enthusiast</b><br>
@@ -73,7 +71,9 @@ If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` 
 <br>
 
 <a href="https://github.com/am3lue">
-  <img src="https://github-readme-stats.vercel.app/api?username=am3lue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=am3lue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </a>
 
@@ -86,8 +86,9 @@ If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` 
 <br>
 
 <a href="https://github.com/am3lue">
-  <img src="https://github-profile-trophy.vercel.app/?username=am3lue&theme=onestar&no-frame=true&no-bg=true&margin-w=15" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=am3lue&theme=algolia&no-frame=true&no-bg=true&margin-w=15" width="90%"/>
 </a>
+
 
 <br>
 
