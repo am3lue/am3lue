@@ -1,4 +1,6 @@
-<div align="center"> # Hi — I'm Francis (am3lue)! 👋 </div>
+<div align="center"> 
+    <h1> Hi — I'm Francis (am3lue)! 👋 </h1>
+    </div>
 
 <p align="center">
   <b>Data Scientist • Embedded Systems Developer • Robotics Enthusiast</b><br>
