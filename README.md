@@ -63,31 +63,33 @@ If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` 
 <div align="center">
 
 💫 *"Turning ideas into reality, one commit at a time..."* 💫  
-
+<!-- 🌸 Contribution Graph -->
 <a href="https://github.com/am3lue">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=am3lue&theme=tokyo-night&hide_border=true&area=true&custom_title=am3lue's%20Contribution%20Graph" width="95%"/>
 </a>
 
 <br>
 
+<!-- ⚡ GitHub Stats -->
 <a href="https://github.com/am3lue">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=am3lue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </a>
 
 <br>
 
+<!-- 🔥 Streak Stats -->
 <a href="https://github.com/am3lue">
   <img src="https://streak-stats.demolab.com?user=am3lue&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%"/>
 </a>
 
 <br>
 
+<!-- 🏆 Trophies -->
 <a href="https://github.com/am3lue">
   <img src="https://github-profile-trophy.vercel.app/?username=am3lue&theme=algolia&no-frame=true&no-bg=true&margin-w=15" width="90%"/>
 </a>
+
 
 
 <br>
