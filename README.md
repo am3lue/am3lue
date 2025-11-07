@@ -72,8 +72,9 @@ If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` 
 
 <!-- ⚡ GitHub Stats -->
 <a href="https://github.com/am3lue">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=am3lue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=am3lue&show_icons=true&theme=algolia&locale=en" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=algolia" alt="Top Languages"/>
 </a>
 
 <br>
