@@ -1,81 +1,95 @@
-<h1 align="center">Hi there, I'm Francis! 👋</h1>
+# Hi — I'm Francis (am3lue)! 👋
 
 <p align="center">
-  <b>Data Scientist | Embedded Systems Developer | Robotics Enthusiast</b><br>
-  🚀 Blending data, code, and hardware to build smarter, greener systems 🚀
+  <b>Data Scientist • Embedded Systems Developer • Robotics Enthusiast</b><br>
+  🚀 I blend data, code, and hardware to build smarter, low‑cost systems for people and the planet.
 </p>
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🔭 Quick overview
+I design and build practical systems at the intersection of **IoT, embedded robotics, and data science** — with a focus on low-cost, maintainable solutions for rural and small‑scale farming, water management, and community automation.
+
+---
+
+## ⚡ Highlights
+- **Domain expertise:** smart irrigation, automated water billing, embedded controllers, sensor integration, and prototype robotics.
+- **Approach:** rapid prototyping → iterative testing → robust documentation. I prefer open-source tools and reproducible workflows.
+- **Current focus:** sustainable smart irrigation, locally hosted web tools for device management, and data‑driven crop monitoring.
+
+---
+
+## 🛠 Skills & Technologies
 <div align="center">
-  <img src="https://img.shields.io/badge/-Julia-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Arduino-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-ESP8266/ESP32-0A0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-C++-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Robotics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Julia-7A42FF?style=for-the-badge&logo=Julia" alt="Julia"/>
+  <img src="https://img.shields.io/badge/Arduino-008DD5?style=for-the-badge&logo=Arduino" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP8266/ESP32-2D8C2F?style=for-the-badge" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Robotics-FF8C00?style=for-the-badge" alt="Robotics"/>
 </div>
 
----
+**Tooling & libraries:** Genie.jl, Plots.jl, Pandas, Scikit‑Learn, TensorFlow, Arduino IDE, VS Codium, JupyterLab.
 
-### 🚀 Featured Projects
-
-- **💧 Automated Water Billing System**  
-  An RFID-based smart water dispensing system with web recharge capability, built using Arduino Mega, NodeMCU, keypad, and solenoid valves.
-
-- **🌱 Automated Solar Irrigation System**  
-  An intelligent irrigation controller for mixed and monocrop farming, designed for scalability and sustainability.
-
-- **🌾 Timed & Soil Moisture-Based Irrigation**  
-  Combines RTC, capacitive sensors, and valve control for efficient water use in gardens and small farms.
-
-- **🌐 Local Refill Web App (NodeMCU)**  
-  A Wi-Fi hosted web interface (port 8000) that allows users to top up water balance securely and instantly.
-
-- **🛠️ Metal Detector Door System**  
-  A prototype using the LJ12A3–4-Z/BX inductive sensor to detect metallic objects at entry points.
+**Hardware:** Arduino Mega, ESP8266, ESP32, RFID (RC522), capacitive soil sensors, RTC modules, solenoid valves, ultrasonic sensors.
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Featured Projects
+> _Click the project name to open the repository (replace placeholders with your real repo links)._
+
+- **Automated Water Billing System** — An RFID‑based smart water dispenser with a locally hosted web recharge portal (Arduino Mega + NodeMCU + solenoid valves). [Repo](https://github.com/am3lue/automated-water-billing)
+
+- **Automated Solar Irrigation System** — Solar‑powered controller for scalable irrigation, optimized for mixed cropping and low energy budgets. [Repo](https://github.com/am3lue/solar-irrigation)
+
+- **Timed & Soil Moisture Irrigation Controller** — Uses RTC and capacitive moisture sensors to make irrigation decisions. Ideal for home gardens and small farms. [Repo](https://github.com/am3lue/timed-moisture-irrigation)
+
+- **Local Refill Web App (NodeMCU)** — Lightweight Wi‑Fi UI (port 8000) for topping up user balance and viewing transaction logs locally. [Repo](https://github.com/am3lue/local-refill-webapp)
+
+- **Metal Detector Door System** — Prototype entry gate detector using LJ12A3–4‑Z/BX inductive sensor for basic metal detection and alerts. [Repo](https://github.com/am3lue/metal-detector-door)
+
+---
+
+## 📦 How to use / Quick start
+1. Clone the repository: `git clone https://github.com/am3lue/<repo-name>.git`
+2. Open the appropriate microcontroller sketch in Arduino IDE (or firmware file for ESP32/ESP8266).
+3. Follow the README in each project for wiring diagrams, library installs, and configuration values (Wi‑Fi SSID, passwords, pins).
+
+If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` folders in the repos for example endpoints and how to run locally.
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=am3lue&show_icons=true&theme=algolia&locale=en" alt="am3lue's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=am3lue&show_icons=true&theme=algolia&locale=en" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=algolia" alt="Top Languages"/>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=am3lue&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
-</div>
+## 🧰 Workflows & Recommendations
+- **Prototyping:** Breadboard + Arduino/ESP → test sensors/actuators → move to PCB/Enclosure.
+- **Versioning:** Keep firmware and server code in separate branches; tag releases for field‑tested builds.
+- **Data logging:** Use CSV/SQLite for local logging; push to lightweight REST endpoints when connectivity is available.
 
 ---
 
-### 🔧 Tools I Work With
-- **Programming**: Julia, C++, Python
-- **Frameworks & Libraries**: Plots.jl, TensorFlow, Scikit-Learn, Pandas, Matplotlib
-- **Microcontrollers**: Arduino Mega, ESP8266, ESP32
-- **Peripherals**: RFID, Ultrasonic Sensors, Soil Sensors, Valves, Keypads
-- **Software**: JupyterLab, Arduino IDE, Dev C++, Access DB, RemoteXY, VS Codium
+## 🤝 Collaboration & Contact
+- **Email:** am3lue@gmail.com
+- **GitHub:** [github.com/am3lue](https://github.com/am3lue)
+- **Instagram:** @am3lue
+
+I’m open to collaborations on hardware + software projects, field trials, and mentorship for students wanting low‑cost IoT solutions.
 
 ---
 
-### 🌍 Current Focus Areas
-- Smart irrigation for sustainable farming  
-- Low-cost automation systems for rural communities  
-- Embedded systems powered by open-source tools  
+## 📜 License & Credits
+This profile and the sample project READMEs follow permissive licensing. Add a `LICENSE` file to each repo (MIT recommended) and credit any third‑party code used.
 
 ---
 
-### 📫 Let's Connect!
-- **Email**: [am3lue@gmail.com](mailto:am3lue@gmail.com)
-- **Instagram**: [@am3lue](#)
+<p align="center">Thanks for visiting — let’s build something that matters. ✨</p>
 
-💬 I’m always open to sharing ideas or collaborating on embedded systems, automation, and data-driven hardware projects.
+*Last updated: 7 November 2025*
 
----
-
-<p align="center">Thank you for visiting my profile! 👀 Let’s build something amazing together.</p>
