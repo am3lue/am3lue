@@ -58,13 +58,41 @@ I design and build practical systems at the intersection of **IoT, embedded robo
 If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` folders in the repos for example endpoints and how to run locally.
 
 ---
+## 📊 GitHub Activity & Stats
 
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=am3lue&show_icons=true&theme=algolia&locale=en" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=algolia" alt="Top Languages"/>
+
+💫 *"Turning ideas into reality, one commit at a time..."* 💫  
+
+<a href="https://github.com/am3lue">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=am3lue&theme=tokyo-night&hide_border=true&area=true&custom_title=am3lue's%20Contribution%20Graph" width="95%"/>
+</a>
+
+<br>
+
+<a href="https://github.com/am3lue">
+  <img src="https://github-readme-stats.vercel.app/api?username=am3lue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3lue&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</a>
+
+<br>
+
+<a href="https://github.com/am3lue">
+  <img src="https://streak-stats.demolab.com?user=am3lue&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%"/>
+</a>
+
+<br>
+
+<a href="https://github.com/am3lue">
+  <img src="https://github-profile-trophy.vercel.app/?username=am3lue&theme=onestar&no-frame=true&no-bg=true&margin-w=15" width="90%"/>
+</a>
+
+<br>
+
+🧠 *Currently exploring:* `Julia`, `IoT automation`, and `data-driven robotics`
+
 </div>
+
 
 ---
 
