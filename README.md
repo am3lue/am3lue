@@ -1,4 +1,4 @@
-# Hi — I'm Francis (am3lue)! 👋
+<div align="center"> # Hi — I'm Francis (am3lue)! 👋 </div>
 
 <p align="center">
   <b>Data Scientist • Embedded Systems Developer • Robotics Enthusiast</b><br>
