@@ -72,7 +72,7 @@ If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` 
 
 
 <!-- 🔥 Streak Stats for HackVerse Vibes -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=am3lue&theme=tokyonight" alt="GitHub Streak" /></a>
+<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=am3lue&theme=tokyonight" alt="GitHub Streak" /></a>-->
 
 </div>
 <br>
