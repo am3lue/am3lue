@@ -84,13 +84,6 @@ If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` 
   <img src="https://streak-stats.demolab.com?user=am3lue&theme=tokyonight&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j"/>
 </a>
 
-<br>
-
-<!-- 🏆 Trophies -->
-<a href="https://github.com/am3lue">
-  <img src="https://github-profile-trophy.vercel.app/?username=am3lue&theme=algolia&no-frame=true&no-bg=true&margin-w=15" width="90%"/>
-</a>
-
 
 
 <br>
