@@ -96,7 +96,7 @@ If you prefer Julia backends (Genie.jl) for web interfaces, check the `server/` 
 ## 🤝 Collaboration & Contact
 - **Email:** am3lue@gmail.com
 - **GitHub:** [github.com/am3lue](https://github.com/am3lue)
-- **Instagram:** @am3lue
+- **Instagram:** [@am3lue](https://instagram.com/am3lue)
 
 I’m open to collaborations on hardware + software projects, field trials, and mentorship for students wanting low‑cost IoT solutions.
 
